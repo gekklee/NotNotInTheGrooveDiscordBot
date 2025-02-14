@@ -1,3 +1,3 @@
-# NotInTheGroove Discord Music Bot
+# NotNotInTheGroove Discord Music Bot
 
-a kinda terrible discord bot to allow for youtube playback in vc.
+not a kinda terrible discord bot to allow for youtube playback in vc.
